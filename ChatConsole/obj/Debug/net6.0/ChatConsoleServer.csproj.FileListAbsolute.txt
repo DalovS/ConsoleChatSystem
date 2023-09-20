@@ -1,0 +1,14 @@
+C:\Users\Далов\source\repos\ChatConsole\ChatConsole\bin\Debug\net6.0\ChatConsoleServer.exe
+C:\Users\Далов\source\repos\ChatConsole\ChatConsole\bin\Debug\net6.0\ChatConsoleServer.deps.json
+C:\Users\Далов\source\repos\ChatConsole\ChatConsole\bin\Debug\net6.0\ChatConsoleServer.runtimeconfig.json
+C:\Users\Далов\source\repos\ChatConsole\ChatConsole\bin\Debug\net6.0\ChatConsoleServer.dll
+C:\Users\Далов\source\repos\ChatConsole\ChatConsole\bin\Debug\net6.0\ChatConsoleServer.pdb
+C:\Users\Далов\source\repos\ChatConsole\ChatConsole\obj\Debug\net6.0\ChatConsoleServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Далов\source\repos\ChatConsole\ChatConsole\obj\Debug\net6.0\ChatConsoleServer.AssemblyInfoInputs.cache
+C:\Users\Далов\source\repos\ChatConsole\ChatConsole\obj\Debug\net6.0\ChatConsoleServer.AssemblyInfo.cs
+C:\Users\Далов\source\repos\ChatConsole\ChatConsole\obj\Debug\net6.0\ChatConsoleServer.csproj.CoreCompileInputs.cache
+C:\Users\Далов\source\repos\ChatConsole\ChatConsole\obj\Debug\net6.0\ChatConsoleServer.dll
+C:\Users\Далов\source\repos\ChatConsole\ChatConsole\obj\Debug\net6.0\refint\ChatConsoleServer.dll
+C:\Users\Далов\source\repos\ChatConsole\ChatConsole\obj\Debug\net6.0\ChatConsoleServer.pdb
+C:\Users\Далов\source\repos\ChatConsole\ChatConsole\obj\Debug\net6.0\ChatConsoleServer.genruntimeconfig.cache
+C:\Users\Далов\source\repos\ChatConsole\ChatConsole\obj\Debug\net6.0\ref\ChatConsoleServer.dll
